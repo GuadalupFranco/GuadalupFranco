@@ -3,14 +3,15 @@
 ```javascript
 const frnco_rg = {
   pronouns: "woman",
-  code: [PHP, JavaScript, HTML, CSS],
+  code: [PHP, JavaScript, Python, HTML, CSS],
   technologies: {
       frontEnd: {
-         js: ["Vue", "React"],
+         js: ["Vue"],
          css: ["Bootstrap", "Tailwind"]
       },
       backEnd: {
          php: ["Laravel", "Inertia"],
+         python: ["Django"]
       },
       databases: [ "MySQL"],
   },
