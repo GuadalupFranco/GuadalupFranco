@@ -1,7 +1,7 @@
 ### Hi, I'm Guadalupe 👩‍💻
 
 ```javascript
-const frnco_rg = {
+const gdpe-franco = {
   pronouns: "woman",
   code: [PHP, JavaScript, Python, HTML, CSS],
   technologies: {
